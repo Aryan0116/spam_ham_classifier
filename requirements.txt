@@ -1,5 +1,4 @@
-nltk==3.8.1
+nltk
 streamlit==1.19.0
 scikit-learn
-ntlk.stopwords
-ntlk.punkt
+
